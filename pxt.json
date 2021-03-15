@@ -1,0 +1,21 @@
+{
+    "name": "SFA30",
+    "version": "0.1.0",
+    "description": "Sensirion SFA30 I2C driver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "SFA30.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
